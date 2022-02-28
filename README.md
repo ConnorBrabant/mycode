@@ -1,6 +1,7 @@
 # mycode Ansible Training
 
 This repo is to tracking the labs associated with ansible training
+This is for learning version control through git
 
 ## Getting Started
 
